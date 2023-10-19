@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/b2bcfa9948277265aa7a6876f71b33bf372d2896/AK%20cartoon-IMG_7620-avatar.PNG"  width="100" height="100" style="border-radius: 25%;">
+
 **Areas of Expertise**: Language, Software, Technology, Other (See Interests)
 
 ### Work
@@ -85,4 +87,4 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 ### Footnotes
 
-My GitHub avatar graphic: Quantum Computing with an artistic twist.
+My GitHub graphic: Quantum Computing with an artistic twist.
