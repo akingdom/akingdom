@@ -44,8 +44,6 @@ I've been fortunate to have experience in most areas of computing, working in IT
 These are the current main languages I use, of about 300 languages and dialects. [Language statistics of my public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom).
 
 ### Interests
-
-Interests, broadly speaking:
 - Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
 - Thinking (inc. philosophy, religion, neurology, psychology, mathematics, epistemology, metaphysics, information science)
 - Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, much much more)
