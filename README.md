@@ -58,9 +58,9 @@ These are the current main languages I use, of about 300 languages and dialects.
 
 ### Quotes
 
-> Where possible, focus on things that are worth knowing. - Andrew Kingdom
+> Where possible, focus on things that are worthwhile. - Andrew Kingdom
 
-> Writer's Block? Think about things differently by: Somone new contacts the protagonist; add in random text from any source at hand; take time to relax, help a stranger, rewrite in a different format (e.g. as a screenplay) , put down the basics and move on. -- Andrew Kingdom
+> Writer's Block? Think about things differently by: Adding a new communication; add in random text from any source at hand; take time to relax, help a stranger, rewrite in a different format (e.g. story as a screenplay), don't get bogged down, put down the basics and move on. -- Andrew Kingdom
 
 > Even experts know less than 1% of everything that can be known about life, the universe and everything.  — Andrew Kingdom
 
