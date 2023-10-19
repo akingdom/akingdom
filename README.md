@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market. 
 
+### [Gists](https://gist.github.com/akingdom)
+My [my code snippets](https://gist.github.com/akingdom)
+
 ### Current Programming and Markup Languages
 
 - Objective-C
@@ -75,3 +78,6 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > A.I. is a useful artificial tool made humans to help human; don't confuse it with actual intelligence, the two are not the same and never will be. — Andrew Kingdom
 
+### Footnotes
+
+My *avatar* logo represents an artistic twist on Quantum Computing.
