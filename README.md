@@ -28,14 +28,6 @@ Here are some ideas to get you started:
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market. 
 
-### Platforms
-
-- Cloud (AWS, Azure, Google, local), 
-- Servers (Windows, Linux, VMS, multi-site, web, file, other)
-- Desktop (MacOS, Windows, Linux, Unix, other)
-- Mobile (iOS, Android, Bada, other)
-- Embedded (MicroChip, Raspberry Pi, other)
-
 ### Programming and markup languages
 
 - Objective-C
@@ -47,6 +39,14 @@ I've been fortunate to have experience in most areas of computing, working in IT
 The above are the current main languages, of about 300 languages and dialects I've used. Here are Language statistics of my public repositories:
 
 ![Language statistics of my public repositories.](https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom)
+
+### Platforms
+
+- Cloud (AWS, Azure, Google, local), 
+- Servers (Windows, Linux, VMS, multi-site, web, file, other)
+- Desktop (MacOS, Windows, Linux, Unix, other)
+- Mobile (iOS, Android, Bada, other)
+- Embedded (MicroChip, Raspberry Pi, other)
 
 ### Interests
 - Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
