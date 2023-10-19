@@ -65,6 +65,10 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 ### Quotes
 
+> A movie is never really finished, just released. - Bonnie Arnold, a producer of the 'How to Train Your Dragon' movies.
+
+> If you're not embarassed of your early work, you spent too long on it. - Attributed to Neil Gaiman
+
 > Where possible, focus on things that are worthwhile. - Andrew Kingdom
 
 > Writer's Block? Think about things differently by: Adding a new communication; add in random text from any source at hand; take time to relax, help a stranger, rewrite in a different format (e.g. story as a screenplay), don't get bogged down, put down the basics and move on. -- Andrew Kingdom
