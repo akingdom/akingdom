@@ -86,5 +86,5 @@ The above are the current main languages, of about 300 languages and dialects I'
 > A.I. is a useful artificial tool made humans to help human; don't confuse it with actual intelligence, the two are not the same and never will be. — Andrew Kingdom
 
 ### Footnotes
-
-My GitHub graphic: Quantum Computing with an artistic twist.
+- <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
+- <sub>(C) Copyright 2023 Andrew Kingdom. All rights reserved.</sub>
