@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 - Advice and help with any IT issue, large or small.
 - Tutor in programming, electronics and English language (for non-native speakers).
-- Maintain mobile apps and do computer language translation.
+- Maintain mobile apps
+- Translate programs between computer languages
+- Build data transformation pipelines
+- Much else
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market. 
 
