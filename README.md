@@ -35,15 +35,13 @@ I've been fortunate to have experience in most areas of computing, working in IT
 
 ### Programming and markup languages
 
-Current main languages used:
-
 - Objective-C
 - Java
 - C# (C-Sharp)
 - Swift
 - HTML, JavaScript, CSS
 
-About 300 languages and dialects.
+These are the current main languages I use, of about 300 languages and dialects.
 
 Language statistics of my public repositories:
 https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom
