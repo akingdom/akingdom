@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/b2bcfa9948277265aa7a6876f71b33bf372d2896/AK%20cartoon-IMG_7620-avatar.PNG" width="94px" height="94px" style="border-radius: 25px;">
+<img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/b2bcfa9948277265aa7a6876f71b33bf372d2896/AK%20cartoon-IMG_7620-avatar-rounded.PNG" width="94px" height="94px" style="border-radius: 25px;">
 
 **Areas of Expertise**: Language, Software, Technology, Other (See Interests)
 
