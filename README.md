@@ -31,7 +31,7 @@ I've been fortunate to have experience in most areas of computing, working in IT
 
 ### Gists
 
-My [my code snippets](https://gist.github.com/akingdom)
+- [My code snippets](https://gist.github.com/akingdom)
 
 ### Current Programming and Markup Languages
 
