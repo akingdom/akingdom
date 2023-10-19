@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### Work
 
+- Freelancer for hire
 - Advice and help with any IT issue, large or small.
 - Tutor in programming, electronics and English language (for non-native speakers).
 - Maintain mobile apps
