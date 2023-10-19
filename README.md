@@ -81,5 +81,5 @@ Interests, broadly speaking:
 
 > You can't truly love others if you're not caring for yourself. It's like how airlines say, 'Put on your own mask first, then help others.'  — Andrew Kingdom
 
-> A.I. is a artificial tool made humans to help human; don't confuse it with actual intelligence, the two are not the same and never will be. — Andrew Kingdom
+> A.I. is a useful artificial tool made humans to help human; don't confuse it with actual intelligence, the two are not the same and never will be. — Andrew Kingdom
 
