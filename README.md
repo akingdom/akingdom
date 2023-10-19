@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Areas of Expertise
-
--	Language
--	Software
--	Technology
-- Other (See Interests)
+**Areas of Expertise**: Language, Software, Technology, Other (See Interests)
 
 ### Work
 
