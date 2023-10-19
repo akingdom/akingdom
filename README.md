@@ -44,7 +44,9 @@ I've been fortunate to have experience in most areas of computing, working in IT
 - Swift
 - HTML, JavaScript, CSS
 
-These are the current main languages I use, of about 300 languages and dialects. [Language statistics of my public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom).
+The above are the current main languages, of about 300 languages and dialects I've used. Here are Language statistics of my public repositories:
+
+![Language statistics of my public repositories.](https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom)
 
 ### Interests
 - Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
