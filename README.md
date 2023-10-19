@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Areas of Expertise**
+### Areas of Expertise
 
 -	Language
 -	Software
 -	Technology
 - Other (See Interests)
 
-**Work**
+### Work
 
 - Advice and help with any IT issue, large or small.
 - Tutor in programming, electronics and English language (for non-native speakers).
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market. 
 
-**Platforms**
+### Platforms
 
 - Cloud (AWS, Azure, Google, local), 
 - Servers (Windows, Linux, VMS, multi-site, web, file, other)
@@ -38,7 +38,7 @@ I've been fortunate to have experience in most areas of computing, working in IT
 - Mobile (iOS, Android, Bada, other)
 - Embedded (MicroChip, Raspberry Pi, other)
 
-**Programming and markup languages**
+### Programming and markup languages
 
 About 300 languages and dialects
 
@@ -53,7 +53,7 @@ Current main languages used:
 Language statistics of my public repositories:
 https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom
 
-**Interests**
+### Interests
 
 What am I not interested in? I suspect it's the aneurotypical way that my brain is wired and filters information.
 
@@ -67,7 +67,7 @@ Interests, broadly speaking:
 	•	Reading and writing... (music, stories, software, legal, much more)
 	•	Everything else
 
-**Quotes**
+### Quotes
 
 > Where possible, focus on things that are worth knowing. - Andrew Kingdom
 
