@@ -58,14 +58,14 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=akingdom
 What am I not interested in? I suspect it's the aneurotypical way that my brain is wired and filters information.
 
 Interests, broadly speaking:
-	•	Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
-	•	Thinking (inc. philosophy, religion, neurology, psychology, mathematics, epistemology, metaphysics, information science)
-	•	Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, much much more)
-	•	History (including archaeology, philology and etymology)
-	•	Language (I'm learning a few languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
-	•	Food (cooking and how not to burn water 🤣)
-	•	Reading and writing... (music, stories, software, legal, much more)
-	•	Everything else
+- Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
+- Thinking (inc. philosophy, religion, neurology, psychology, mathematics, epistemology, metaphysics, information science)
+- Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, much much more)
+- History (including archaeology, philology and etymology)
+- Language (I'm learning a few languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
+- Food (cooking and how not to burn water 🤣)
+- Reading and writing... (music, stories, software, legal, much more)
+- Everything else
 
 ### Quotes
 
