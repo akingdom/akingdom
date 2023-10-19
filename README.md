@@ -45,8 +45,6 @@ These are the current main languages I use, of about 300 languages and dialects.
 
 ### Interests
 
-What am I not interested in? I suspect it's the aneurotypical way that my brain is wired and filters information.
-
 Interests, broadly speaking:
 - Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
 - Thinking (inc. philosophy, religion, neurology, psychology, mathematics, epistemology, metaphysics, information science)
