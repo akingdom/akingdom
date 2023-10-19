@@ -81,4 +81,4 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 ### Footnotes
 
-My *avatar* logo represents an artistic twist on Quantum Computing.
+My GitHub avatar graphic: Quantum Computing with an artistic twist.
