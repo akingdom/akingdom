@@ -34,6 +34,7 @@ I've been fortunate to have experience in most areas of computing, working in IT
 ### Gists
 
 - [My code snippets](https://gist.github.com/akingdom)
+- [Student Advice on Programming](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 
 ### Current Programming and Markup Languages
 
