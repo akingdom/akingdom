@@ -70,7 +70,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > A movie is never really finished, just released. - Bonnie Arnold, a producer of the 'How to Train Your Dragon' movies.
 
-> If you're not embarassed of your early work, you spent too long on it. - Attributed to Neil Gaiman
+> If you're not embarassed by your early work, you spent too long on it. - Attributed to Neil Gaiman
 
 > Where possible, focus on things that are worthwhile. - Andrew Kingdom
 
