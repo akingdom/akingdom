@@ -88,7 +88,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > Observe **circumstances** to set context for decisions and emotions.
 Navigate **emotions** to influence perceptions and decision-making.
-Communicate **decisions** to shape circumstances and emotional states. - Andrew Kingdom
+Communicate **decisions** to shape circumstances and emotional states. — Andrew Kingdom
 
 
 ### Footnotes
