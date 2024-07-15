@@ -88,7 +88,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > **Understanding context** when making informed decisions (acknowledging emotions), enhances relationships and communication.
 **Managing emotions in the bigger picture** improves decision-making and reduces excessive conflict, leading to clearer perspectives and rational choices.
-**Communicating decisions clearly** positively impacts circumstances and enhances emotional well-being.
+**Communicating decisions clearly** positively impacts circumstances and strengthens emotional well-being.
 — Andrew Kingdom
 
 ### Footnotes
