@@ -86,9 +86,9 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence, the two are not the same and never will be. — Andrew Kingdom
 
-> **Understand the context** to make informed decisions and acknowledge emotions, enhancing relationships and communication.
-**Manage emotions thoughtfully** to improve decision-making and reduce conflict, leading to clearer perspectives and rational choices.
-**Communicate decisions clearly** to positively impact circumstances and enhance emotional well-being.
+> **Understanding context** when makeing informed decisions (and acknowledge emotions), enhances relationships and communication.
+**Managing emotions thoughtfully** improves decision-making and reduces excessive conflict, leading to clearer perspectives and rational choices.
+**Communicating decisions clearly** positively impacts circumstances and enhances emotional well-being.
 — Andrew Kingdom
 
 ### Footnotes
