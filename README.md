@@ -84,7 +84,9 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > You can't truly love others if you're not caring for yourself. It's like how airlines say, 'Put on your own mask first, then help others.'  — Andrew Kingdom
 
-> A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence, the two are not the same and never will be. — Andrew Kingdom
+> A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence, the two are not the same and will never be so. — Andrew Kingdom
+
+> Un-deception is the successful resolution of misapprehension, that is, the changing of your mind concerning a misbelief. This is not the same as trying to change someone's mind. 
 
 > - **Understanding context** when making informed decisions enhances relationships and communication (acknowledging emotions is part of the context).
 > - **Managing emotions in the bigger picture** improves decision-making and reduces excessive conflict, leading to clearer perspectives and rational choices.
