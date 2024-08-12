@@ -76,7 +76,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > Writer's Block? Think about things differently by: Adding a new communication; add in random text from any source at hand; take time to relax, help a stranger, rewrite in a different format (e.g. story as a screenplay), don't get bogged down, put down the basics and move on. -- Andrew Kingdom
 
-> Even experts know less than 1% of everything that can be known about life, the universe and everything. To think otherise is to not even be aware of your own ignorance.  — Andrew Kingdom
+> Even experts know less than 1% of everything that can be known about life, the universe and everything. To think otherwise is to not even be aware of your own ignorance.  — Andrew Kingdom
 
 > Being an expert in one field does not guarantee expertise in another field. For example, understanding the science of combustion doesn't automatically make me good at cooking food on a fire. — Andrew Kingdom
 
