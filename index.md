@@ -13,4 +13,19 @@
 - [Line Record Format](https://gist.github.com/akingdom/f068e919d360f39347e1c8e1ec2806ab)  -- A very simple human-friendly parsable data format. I use this in a number of projects.
 
 
+### Guides
 
+#### Programming
+
+- [Blender](https://gist.github.com/akingdom/11dcfa28d28d09eacd4db9544729da21)
+- [Excel Formulas](https://gist.github.com/akingdom/11dcfa28d28d09eacd4db9544729da21) -- Various Spreadsheet formulas
+- [MacOS commands](https://gist.github.com/akingdom/d85129b08a96ffba8c89741abf6d1974) -- Command line commands
+- [Programming Advice](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c) -- Advice for learning programming (Student Oriented)
+- [Programmable Systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff) -- Principles for creating a programmable system.
+- [Source Control](https://gist.github.com/akingdom/f13e1d9d27fcde33448c17fbbb0586bc) -- Explains Source Control
+- [Xcode Sandbox Capability](https://gist.github.com/akingdom/91c4aa4bcb77d2fcade07909a4dcc58b) -- How to add the Sandbox Capability to an Xcode project
+- [Xcode Debugger Commands](https://gist.github.com/akingdom/2bc37e77263c669d808470dbc91f5b29)
+
+#### Creative Writing
+
+- [Jane Austen Approach to Writing](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b)
