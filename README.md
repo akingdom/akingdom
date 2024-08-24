@@ -1,4 +1,6 @@
-## "Hello, World" 👋
+## Andrew Kingdom - About
+
+**[Areas of Expertise](#work-i-do)**: [Language](#interests), [Software](#current-programming-and-markup-languages), [Technology](#Platforms), [Much More](#interests)
 
 <!--
 **akingdom/akingdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +19,9 @@ Here are some ideas to get you started:
 
 <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;">
 
-**Areas of Expertise**: Language, Software, Technology, Other (See Interests)
+"Hello, World" 👋 
 
-### Work
+### Work I do
 
 - Freelancer for hire
 - Advice and help with any IT issue, large or small.
