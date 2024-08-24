@@ -1,7 +1,3 @@
-## Andrew Kingdom - About
-
-**[Areas of Expertise](#work-i-do)**: [Language](#interests), [Software](#current-programming-and-markup-languages), [Technology](#Platforms), [Much More](#interests)
-
 <!--
 **akingdom/akingdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;">
+## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> Andrew Kingdom
 
-"Hello, World" 👋 
+**[Areas of Expertise](#work-i-do)**: [Language](#interests), [Software](#current-programming-and-markup-languages), [Technology](#platforms), [much more](#interests)
 
 ### Work I do
 
@@ -31,12 +27,14 @@ Here are some ideas to get you started:
 - Build data transformation pipelines
 - Much else
 
-I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market. 
+*I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.*
 
-### Gists
+"Hello, World" 👋 
 
-- [My guides, code snippets and other information](https://gist.github.com/akingdom)
 - [Student Advice on Programming](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+- [Source Code](https://github.com/akingdom?tab=repositories)
+- [Source Code Extracts](https://gist.github.com/akingdom)
+- [Guides and other information](https://gist.github.com/akingdom)
 
 ### Current Programming and Markup Languages
 
