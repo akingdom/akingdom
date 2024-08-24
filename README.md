@@ -35,6 +35,7 @@ I've been fortunate to have experience in most areas of computing, working in IT
 - [Source Code](https://github.com/akingdom?tab=repositories) Repositories
 - [Source Code Extracts](https://gist.github.com/akingdom) Gist
 - [Guides and other information](https://gist.github.com/akingdom)
+- [Standards](standards.md)
 
 ### Current Programming and Markup Languages
 
