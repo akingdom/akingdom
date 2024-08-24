@@ -34,8 +34,9 @@ I've been fortunate to have experience in most areas of computing, working in IT
 - [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 - [Source Code](https://github.com/akingdom?tab=repositories) Repositories
 - [Source Code Extracts](https://gist.github.com/akingdom) Gist
-- [Guides and other information](https://gist.github.com/akingdom)
-- [Standards](standards.md)
+- [Guides](https://gist.github.com/akingdom) - [Excel](https://gist.github.com/akingdom/11dcfa28d28d09eacd4db9544729da21), Xcode, 
+- [Standards](index.md#standards) - mostly formats for data storage and transport
+- 
 
 ### Current Programming and Markup Languages
 
