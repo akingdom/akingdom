@@ -84,7 +84,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 
 > You can't truly love others if you're not caring for yourself. It's like how airlines say, 'Put on your own mask first, then help others.'  — Andrew Kingdom
 
-> Intelligence has little to do with a person's value. — Andrew Kingdom
+> Intelligence has little to do with a person's value as a human. — Andrew Kingdom
 
 > A.I. is a tool made by humans to assist humans; don't confuse it with actual intelligence, the two are not the same and will never be so. — Andrew Kingdom
 
