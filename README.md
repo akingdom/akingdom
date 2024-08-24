@@ -32,8 +32,8 @@ I've been fortunate to have experience in most areas of computing, working in IT
 ### "Hello, World" 👋 
 
 - [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
-- [Source Code](https://github.com/akingdom?tab=repositories)
-- [Source Code Extracts](https://gist.github.com/akingdom)
+- [Source Code](https://github.com/akingdom?tab=repositories) Repositories
+- [Source Code Extracts](https://gist.github.com/akingdom) Gist
 - [Guides and other information](https://gist.github.com/akingdom)
 
 ### Current Programming and Markup Languages
