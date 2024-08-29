@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
 
-### "Hello, World" 👋 
+### Technology "Hello, World" 👋 
 
 - [Advice for Student Programmers](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
 - [Source Code](https://github.com/akingdom?tab=repositories) Repositories
