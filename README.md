@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> Andrew Kingdom
 
-**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests)
+**[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
 ### Work I do
 
@@ -28,6 +28,17 @@ Here are some ideas to get you started:
 - Much else
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
+
+### Interests
+- Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
+- Practical Thinking (inc. philosophy, religion, neurology, psychology, [mathematics](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76), epistemology, metaphysics, information science)
+- Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, [programmable systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff), much much more)
+- History (including archaeology, philology, [etymology](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9), genealogy, living history)
+- Language (I'm learning a few spoken languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
+- [Food](https://github.com/akingdom/food-recipes) (cooking and how not to burn water)
+- Reading and creative writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
+- Visuals such as user interface, artwork and more
+- Everything else
 
 ### Technology "Hello, World" 👋 
 
@@ -57,17 +68,6 @@ The above are the current main languages, of about 300 languages and dialects I'
 - Desktop (MacOS, Windows, Linux, Unix, other)
 - Mobile (iOS, Android, Bada, other)
 - Embedded (MicroChip, Raspberry Pi, other)
-
-### Interests
-- Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
-- Practical Thinking (inc. philosophy, religion, neurology, psychology, [mathematics](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76), epistemology, metaphysics, information science)
-- Technology (too many to name, most branches, everything; I've helped design and build simple computers, websites, small data centres, networks, software, mobile apps, servers, websites, IOT, embedded systems, [programmable systems](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff), much much more)
-- History (including archaeology, philology, [etymology](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9), genealogy, living history)
-- Language (I'm learning a few spoken languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
-- [Food](https://github.com/akingdom/food-recipes) (cooking and how not to burn water)
-- Reading and creative writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
-- Visuals such as user interface, artwork and more
-- Everything else
 
 ### Quotes
 
