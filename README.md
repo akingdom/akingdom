@@ -65,7 +65,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 - History (including archaeology, philology, [etymology](https://gist.github.com/akingdom/712dbe9765503fb0ff3e909831eaf5d9), genealogy, living history)
 - Language (I'm learning a few spoken languages, including modern Greek, and help people practice English, I watch more foreign movies and TV than English, including-but-not-limited-to: Mandarin, Korean, Hindi, German)
 - [Food](https://github.com/akingdom/food-recipes) (cooking and how not to burn water)
-- Reading and writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
+- Reading and creative writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), art, [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
 - Everything else
 
 ### Quotes
