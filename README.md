@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
+*How do you use this website? Use the links in this page*
+
 ### Work I do
 
 - Freelancer for hire
