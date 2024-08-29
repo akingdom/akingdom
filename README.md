@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 - Build data transformation pipelines
 - Much else
 
-I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
-
 ### Interests
 - Nature on Earth (inc. biology, geology), big things (cosmology), little things (physics)
 - Practical Thinking (inc. philosophy, religion, neurology, psychology, [mathematics](https://gist.github.com/akingdom/5f9f35bb94d8742eb08c1f82334c9e76), epistemology, metaphysics, information science)
@@ -39,6 +37,8 @@ I've been fortunate to have experience in most areas of computing, working in IT
 - Reading and creative writing... ([music](https://www.youtube.com/channel/UCJAeF7xHIxwT8UwCKFxfwPQ), [stories](https://gist.github.com/akingdom/ed8cdf59a72313a16a93c122c985944b), [software](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c), legal, much more)
 - Visuals such as user interface, artwork and more
 - Everything else
+
+I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
 
 ### Technology "Hello, World" 👋 
 
