@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - General business advice.
 - Advice and help with any IT issue, large or small.
 - Tutor in English language (for non-native speakers).
-
-For general details about myself, see [my website at https://akingdom.github.io/](https://akingdom.github.io) - tools, articles, art, music, interests, etc.
+- Read More: [tools, articles, art, music, interests, etc.](https://akingdom.github.io)
 
 ## Technology
 
