@@ -17,25 +17,21 @@ Here are some ideas to get you started:
 
 **[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://akingdom.github.io/#interests) · [Software](#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom#platforms) · [Everything Else](https://akingdom.github.io/#interests) · [Quotes](https://akingdom.github.io/#quotes)
 
-*How do you use this website? Use the links in this page*
+## General work I do
 
-## Work I do
-
-- Freelancer for hire
+- Freelancer for hire.
+- General business advice.
 - Advice and help with any IT issue, large or small.
-- Tutor in programming, electronics and English language (for non-native speakers).
-- Maintain mobile apps
-- Translate programs between computer languages
-- Build data transformation pipelines
-- Much else
+- Tutor in English language (for non-native speakers).
 
-## General
-
-For details about myself, see [my website at https://akingdom.github.io/](https://akingdom.github.io/).
-
-If you're here for technical or programming related material, please read on.
+For general details about myself, see [my website at https://akingdom.github.io/](https://akingdom.github.io) - tools, articles, art, music, interests, etc.
 
 ## Technology
+
+- Tutor in programming and electronics.
+- Maintain mobile apps.
+- Translate programs between computer languages.
+- Build data transformation pipelines.
 
 I've been fortunate to have experience in most areas of computing, working in IT Support and Development since the 1980s, primarily servicing the education market.
 
