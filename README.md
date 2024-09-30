@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> Andrew Kingdom
+## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [Andrew Kingdom](https://akingdom.github.io/)
 
 **[Areas of Expertise](#work-i-do)** - [Language](#interests) · [Software](#current-programming-and-markup-languages) · [Technology](#platforms) · [Everything Else](#interests) · [Quotes](#quotes)
 
@@ -102,5 +102,6 @@ The above are the current main languages, of about 300 languages and dialects I'
 — Andrew Kingdom
 
 ### Footnotes
+- <sub>[Website](https://akingdom.github.io/)</sub>
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
 - <sub>(C) Copyright 2024 Andrew Kingdom. All rights reserved.</sub>
