@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://akingdom.github.io/#interests) · [Software](#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom#platforms) · [Everything Else](https://akingdom.github.io/#interests) · [Quotes](https://akingdom.github.io/#quotes)
 
-## General work I do
+## About
 
 - Freelancer for hire.
 - General business advice.
