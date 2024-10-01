@@ -25,6 +25,8 @@ I’m a freelance consultant specializing in technology solutions. Whether you�
 - Tutor in English language (for non-native speakers).
 - Read More: [tools, articles, art, music, interests, etc.](https://akingdom.github.io)
 
+**"Together, let’s turn ideas into reality. Reach out to start your journey!"**
+
 ## Technology
 
 - Tutor in programming and electronics.
