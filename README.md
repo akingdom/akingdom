@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://akingdom.github.io/#interests) · [Software](#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom#platforms) · [Everything Else](https://akingdom.github.io/#interests) · [Quotes](https://akingdom.github.io/#quotes)
 
 ## About
-
+I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 - Freelancer for hire.
 - General business advice.
 - Advice and help with any IT issue, large or small.
