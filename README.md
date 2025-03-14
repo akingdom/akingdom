@@ -65,11 +65,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 - Mobile (iOS, Android, Bada, other)
 - Embedded (MicroChip, Raspberry Pi, other)
 
-## akingdom’s GitHub Gists and Repositories
-
-*This is a list of my articles, projects, etc.*
-
-### Repositories
+### My Repositories
 - [Debug Safari App Extensions in Xcode](https://github.com/akingdom/Debuggles-SAEP)
 - [Standalone HTML page to help quickly identify and remove duplicate runs of text](https://github.com/akingdom/duplicate_word_highlighter)
 - [How to open an iOS app/record from an external URL and how to pass that information to a View](https://github.com/akingdom/example-url-opens-app)
@@ -80,7 +76,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 - [Pulling data from an HTML comment](https://github.com/akingdom/pykeletFromComment)
 - [Serves a local folder as a website. Useful for when you need a web server for quick testing](https://github.com/akingdom/start-site)
 
-### Gists
+### My Gists
 - [Converts colours between web hex color and an RGBA object.](https://gist.github.com/akingdom/0a0edd3ea37a9a331983cff3a69c4bee)
 - [Six Principles for Creating a Programmable System](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
 - [A general discussion on programming, including my comments to students.](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
