@@ -65,6 +65,79 @@ The above are the current main languages, of about 300 languages and dialects I'
 - Mobile (iOS, Android, Bada, other)
 - Embedded (MicroChip, Raspberry Pi, other)
 
+### Github Repositories
+
+## akingdom’s GitHub Gists and Repositories
+
+*This is a list of my articles, projects, etc.*
+
+### Repositories
+- [ANSITerminal](https://github.com/akingdom/ANSITerminal)
+- [Debuggles-SAEP](https://github.com/akingdom/Debuggles-SAEP)
+- [design-resources-for-developers](https://github.com/akingdom/design-resources-for-developers)
+- [displayplacer](https://github.com/akingdom/displayplacer)
+- [duplicate_word_highlighter](https://github.com/akingdom/duplicate_word_highlighter)
+- [example-url-opens-app](https://github.com/akingdom/example-url-opens-app)
+- [food-recipes](https://github.com/akingdom/food-recipes)
+- [gists](https://github.com/akingdom/gists)
+- [git-me](https://github.com/akingdom/git-me)
+- [google-api-objectivec-client-for-rest](https://github.com/akingdom/google-api-objectivec-client-for-rest)
+- [google-auth-library-swift](https://github.com/akingdom/google-auth-library-swift)
+- [GTMAppAuth](https://github.com/akingdom/GTMAppAuth)
+- [iOS-DeviceSupport](https://github.com/akingdom/iOS-DeviceSupport)
+- [Ji](https://github.com/akingdom/Ji)
+- [LXD](https://github.com/akingdom/LXD)
+- [Nuklear](https://github.com/akingdom/Nuklear)
+- [OpenCombine](https://github.com/akingdom/OpenCombine)
+- [OpenSwiftUI](https://github.com/akingdom/OpenSwiftUI)
+- [pageflip](https://github.com/akingdom/pageflip)
+- [Prepopulate_SwiftData](https://github.com/akingdom/Prepopulate_SwiftData)
+- [pykelet](https://github.com/akingdom/pykelet)
+- [pykeletFromComment](https://github.com/akingdom/pykeletFromComment)
+- [Readometer](https://github.com/akingdom/Readometer)
+- [rtfparse](https://github.com/akingdom/rtfparse)
+- [shift-js](https://github.com/akingdom/shift-js)
+- [start-site](https://github.com/akingdom/start-site)
+- [swift-android-architecture](https://github.com/akingdom/swift-android-architecture)
+- [swift-android-gradle](https://github.com/akingdom/swift-android-gradle)
+
+### Gists
+- [Converts colours between web hex color and an RGBA object.](https://gist.github.com/akingdom/0a0edd3ea37a9a331983cff3a69c4bee)
+- [Six Principles for Creating a Programmable System](https://gist.github.com/akingdom/bf3f498810a33e17f2d6d12425ef51ff)
+- [A general discussion on programming, including my comments to students.](https://gist.github.com/akingdom/09f1bef20fd0f601cbb2b8d504ef6f9c)
+- [Useful command-line (terminal) commands to use on MacOS](https://gist.github.com/akingdom/d85129b08a96ffba8c89741abf6d1974)
+- [Useful Xcode debugger commands](https://gist.github.com/akingdom/2bc37e77263c669d808470dbc91f5b29)
+- [What is Source Control? A quick glossary for non-technical people.](https://gist.github.com/akingdom/f13e1d9d27fcde33448c17fbbb0586bc)
+- [This document presents the PLY polygon file format, a format for storing graphical objects that are described as a collection of polygons. ](https://gist.github.com/akingdom/b56a60871a788a7c1661bdf3cd8c320b)
+- [Read a single line string from a file](https://gist.github.com/akingdom/436301490426b21f7591adbf31ce67bd)
+- [Process lines in a simple memory-resident ASCII-style string in UTF8 format.](https://gist.github.com/akingdom/4ca0ba8cd704b31a4a5a4b2c3d1d1a3f)
+- [This is an example of implementing headings with collapsible content. This doesn't currently recalculate height if content changes as I don't need that.](https://gist.github.com/akingdom/272a345e93dc2f107c895a154cc497e1)
+- [Convert an HTML-style web hexadecimal color string to/from a Unity C# Colour instance. See also Swift version.](https://gist.github.com/akingdom/b113661850f3d8348668b4e766da3eca)
+- [Maintains a renamed copy of certain Unity Resources asset files in your project. For example, by default Unity won't include SVG files as text XML for further processing.](https://gist.github.com/akingdom/ec02ea14cf3d6ebb4409af11f472167a)
+- [Disables sending of device details, etc. to Unity.](https://gist.github.com/akingdom/bc9dba0d61e6a60546a877c4ac81c16f)
+- [As of iOS 16.4, there is an extra step to allowing a webkit view to be inspected (via remote debugging) from Safari.](https://gist.github.com/akingdom/832a716c80fa883aee259280d828ddca)
+- [Example of a basic editable HTML dropdown (SELECT menu), aimed at easy use on multiple SELECT elements. ](https://gist.github.com/akingdom/8edbc92dccbe686d340221e28fb95abb)
+- [Example of a basic editable HTML dropdown (SELECT menu).](https://gist.github.com/akingdom/b9a2593f2391bc38ab0fe33c26c150a3)
+- [Blender resources](https://gist.github.com/akingdom/66a08a4fe2e1a2c9aca97a99ee9e32ac)
+- [Code snippet to transform a Google Drive link to a directly accessible URL (2023)](https://gist.github.com/akingdom/55dc8cf6155444dfef781cefbb7da7e3)
+- [Use a string key to reference a property in a class or struct; Get the name of a property as a string](https://gist.github.com/akingdom/4609b07d75b4d4c44c7a36ce0444952f)
+- [A very simple human-friendly parsable data format. I use this in a number of projects.](https://gist.github.com/akingdom/f068e919d360f39347e1c8e1ec2806ab)
+- [Example of printing a source code line at an error position (based on an index within the entire source code)](https://gist.github.com/akingdom/47b19af9350cb35d12cf7825d6b97307)
+- [Auto-increment the version number in an Android App](https://gist.github.com/akingdom/7697f0153dbaf1c0643a9cd9314b1be7)
+- [Add the App Sandbox capability to an Xcode project when it is missing from the standard capabilities area.](https://gist.github.com/akingdom/91c4aa4bcb77d2fcade07909a4dcc58b)
+- [A custom iOS segue to fully replace the current UIViewController with a new UIViewController.](https://gist.github.com/akingdom/722acb58e876f38955a60f852cf73e53)
+- [How to programmatically control whether the screen may or may not turn off.](https://gist.github.com/akingdom/4b73701e68b7ce78ad440d0ca901eb13)
+- [check if the Android app is a debug build versus a release build](https://gist.github.com/akingdom/9b5c55a38dbdd910acd24d3e7927a180)
+- [Example showing how to allow a Swift class to be instantiated via a 'new' in Javascript.](https://gist.github.com/akingdom/72d8c8b3584edabaa51b5dcbadee7772)
+- [Convert an HTML-style web hexadecimal color string to a UIColour instance. See also C# version.](https://gist.github.com/akingdom/75778998e0d435060d645c0be35f9c24)
+- [Code to detect whether this is an initial app launch or subsequent.](https://gist.github.com/akingdom/5bfdaeee6dfe6540a2009d6489aeec9f)
+- [Useful Excel Formulas](https://gist.github.com/akingdom/11dcfa28d28d09eacd4db9544729da21)
+
+
+Menu listing by Andrew Kingdom's [Git Me](https://akingdom.github.io/git-me/)
+
+
+
 ### Footnotes
 - <sub>[Website](https://akingdom.github.io/)</sub>
 - <sub><img src="https://avatars.githubusercontent.com/u/1809762?v=4" width="20" height="20">My GitHub user icon: Quantum Computing with an artistic twist.</sub>
