@@ -65,8 +65,6 @@ The above are the current main languages, of about 300 languages and dialects I'
 - Mobile (iOS, Android, Bada, other)
 - Embedded (MicroChip, Raspberry Pi, other)
 
-### Github Repositories
-
 ## akingdom’s GitHub Gists and Repositories
 
 *This is a list of my articles, projects, etc.*
