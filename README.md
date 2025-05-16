@@ -107,7 +107,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 - [Convert an HTML-style web hexadecimal color string to a UIColour instance. See also C# version.](https://gist.github.com/akingdom/75778998e0d435060d645c0be35f9c24)
 - [Code to detect whether this is an initial app launch or subsequent.](https://gist.github.com/akingdom/5bfdaeee6dfe6540a2009d6489aeec9f)
 - [Useful Excel Formulas](https://gist.github.com/akingdom/11dcfa28d28d09eacd4db9544729da21)
-
+- [BBEdit Grep Patterns](https://gist.github.com/akingdom/6df318e009dbbf2a3833f29750267c9b)
 
 Menu listing by Andrew Kingdom's [Git Me](https://akingdom.github.io/git-me/)
 
