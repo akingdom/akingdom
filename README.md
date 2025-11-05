@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/08f5c5bb206da1072dc49ff116ee5bb0a3bdbe10/AK%20cartoon-IMG_7620-avatar-rounded.png" width="94px" height="94px" style="border-radius: 25px;"> [*Andrew Kingdom*](https://akingdom.github.io/) · [Contact Me](https://akingdom.github.io/)
+## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/2b17d3e71c65ccfc9af364da48ae43965ba720ba/ak_2024_747_sm_rounded.png" width="102px" height="102px" style="border-radius: 25px;"> [*Andrew Kingdom*](https://akingdom.github.io/) · [Contact Me](https://akingdom.github.io/)
 
 **[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://akingdom.github.io/#interests) · [Software](https://github.com/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](https://akingdom.github.io/#interests) · [Quotes](https://akingdom.github.io/#quotes)
 
