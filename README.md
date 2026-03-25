@@ -13,10 +13,97 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img alt="Cartoon of me" src="https://github.com/akingdom/akingdom/blob/5dae4c915e7e942ef8251b20dd561ddf31b69b31/ak_2024_747_sm_rounded.png" width="102px" height="102px" style="border-radius: 25px;"> [*Andrew Kingdom*](https://akingdom.github.io/) · [Contact Me](https://akingdom.github.io/)
+<div style="
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.12);
+  font-family: system-ui, sans-serif;
+">
 
-**[Areas of Expertise](https://github.com/akingdom#work-i-do)** - [Language](https://akingdom.github.io/#interests) · [Software](https://github.com/akingdom/#current-programming-and-markup-languages) · [Technology](https://github.com/akingdom/akingdom/#platforms) · [Everything Else](https://akingdom.github.io/#interests) · [Quotes](https://akingdom.github.io/#quotes)
+  <!-- HEADER SECTION -->
+  <div style="display: flex; align-items: center; gap: 1rem;">
+    <img src="https://github.com/akingdom/akingdom/blob/5dae4c915e7e942ef8251b20dd561ddf31b69b31/ak_2024_747_sm_rounded.png"
+         alt="Andrew Kingdom"
+         style="width: 96px; height: 96px; border-radius: 20px; object-fit: cover;">
+    <div>
+      <h2 style="margin: 0; font-size: 1.6rem;">Andrew Kingdom</h2>
+      <div style="color: #555; font-size: 0.95rem;">
+        Technology Consultant · Software Developer · Educator
+      </div>
+    </div>
+  </div>
 
+  <!-- BUTTON ROW -->
+  <div style="
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  ">
+    <a href="https://akingdom.github.io/" style="
+      padding: 0.55rem 1rem;
+      background: #1a73e8;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 0.9rem;
+    ">Website</a>
+
+    <a href="https://akingdom.github.io/" style="
+      padding: 0.55rem 1rem;
+      background: #34a853;
+      color: white;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 0.9rem;
+    ">Contact</a>
+
+    <a href="https://github.com/akingdom#work-i-do" style="
+      padding: 0.55rem 1rem;
+      background: #fbbc04;
+      color: #222;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 0.9rem;
+    ">Areas of Expertise</a>
+  </div>
+
+  <!-- IMAGE STRIP -->
+  <div style="
+    margin-top: 1.4rem;
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    padding-bottom: 0.4rem;
+  ">
+    <img src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+    <img src="https://akingdom.github.io/talking_clock/talkingclock.png"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+    <img src="https://akingdom.github.io/articles/JaneAusten_media/miss_elizabeth_bennett_by_akingdom1-thumb.png"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+    <img src="https://akingdom.github.io/articles/ShapeTheory/shapetheorypix/shape-theory-3d-form-AK.png"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+    <img src="https://akingdom.github.io/articles/ShapeTheory/shapetheorypix/mothers-face-up-close-like-a-circle--andrew-kingdom.jpeg"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+    <img src="https://akingdom.github.io/art2/images/ec2efb6dca2746018fe762f8889d6296.jpeg"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+    <img src="https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png"
+         style="height: 70px; border-radius: 10px; object-fit: cover;">
+  </div>
+
+  <!-- DESCRIPTION -->
+  <div style="margin-top: 1.5rem; font-size: 1rem; color: #333;">
+    I’m a freelance consultant specializing in technology solutions. Whether you’re
+    facing a complex IT issue or need guidance on software development, I’m here to help.
+  </div>
+
+</div>
+
+<hr>
 ## About
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 - Freelancer for hire.
