@@ -13,97 +13,89 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="
-  max-width: 720px;
-  margin: 2rem auto;
-  padding: 1.5rem;
-  border-radius: 18px;
-  background: #ffffff;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.12);
-  font-family: system-ui, sans-serif;
-">
+<table>
+<tr>
 
-  <!-- HEADER SECTION -->
-  <div style="display: flex; align-items: center; gap: 1rem;">
-    <img src="https://github.com/akingdom/akingdom/blob/5dae4c915e7e942ef8251b20dd561ddf31b69b31/ak_2024_747_sm_rounded.png"
-         alt="Andrew Kingdom"
-         style="width: 96px; height: 96px; border-radius: 20px; object-fit: cover;">
-    <div>
-      <h2 style="margin: 0; font-size: 1.6rem;">Andrew Kingdom</h2>
-      <div style="color: #555; font-size: 0.95rem;">
-        Technology Consultant · Software Developer · Educator
-      </div>
-    </div>
-  </div>
+<!-- LEFT: AVATAR -->
+<td width="140" valign="top" align="center">
+  <img src="https://github.com/akingdom/akingdom/blob/5dae4c915e7e942ef8251b20dd561ddf31b69b31/ak_2024_747_sm_rounded.png"
+       width="120" alt="Portrait of Andrew Kingdom" />
+</td>
 
-  <!-- BUTTON ROW -->
-  <div style="
-    margin-top: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
-  ">
-    <a href="https://akingdom.github.io/" style="
-      padding: 0.55rem 1rem;
-      background: #1a73e8;
-      color: white;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.9rem;
-    ">Website</a>
+<!-- RIGHT: WEBSITE + CONTACT -->
+<td valign="top">
 
-    <a href="https://akingdom.github.io/" style="
-      padding: 0.55rem 1rem;
-      background: #34a853;
-      color: white;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.9rem;
-    ">Contact</a>
+<h3>Andrew Kingdom</h3>
 
-    <a href="https://github.com/akingdom#work-i-do" style="
-      padding: 0.55rem 1rem;
-      background: #fbbc04;
-      color: #222;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.9rem;
-    ">Areas of Expertise</a>
-  </div>
+<a href="https://akingdom.github.io/">Website</a> ·
+<a href="https://akingdom.github.io/">Contact</a>
 
-  <!-- IMAGE STRIP -->
-  <div style="
-    margin-top: 1.4rem;
-    display: flex;
-    gap: 0.6rem;
-    overflow-x: auto;
-    padding-bottom: 0.4rem;
-  ">
-    <img src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-    <img src="https://akingdom.github.io/talking_clock/talkingclock.png"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-    <img src="https://akingdom.github.io/articles/JaneAusten_media/miss_elizabeth_bennett_by_akingdom1-thumb.png"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-    <img src="https://akingdom.github.io/articles/ShapeTheory/shapetheorypix/shape-theory-3d-form-AK.png"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-    <img src="https://akingdom.github.io/articles/ShapeTheory/shapetheorypix/mothers-face-up-close-like-a-circle--andrew-kingdom.jpeg"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-    <img src="https://akingdom.github.io/art2/images/ec2efb6dca2746018fe762f8889d6296.jpeg"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-    <img src="https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png"
-         style="height: 70px; border-radius: 10px; object-fit: cover;">
-  </div>
+</td>
+</tr>
 
-  <!-- DESCRIPTION -->
-  <div style="margin-top: 1.5rem; font-size: 1rem; color: #333;">
-    I’m a freelance consultant specializing in technology solutions. Whether you’re
-    facing a complex IT issue or need guidance on software development, I’m here to help.
-  </div>
 
-</div>
+<!-- SECOND ROW -->
+<tr>
 
-<hr>
+<!-- LEFT: EXPERTISE TITLE + LIST -->
+<td valign="top">
+
+<strong>Areas of Expertise</strong><br>
+<a href="https://akingdom.github.io/#interests">Language</a><br>
+<a href="https://github.com/akingdom/#current-programming-and-markup-languages">Software</a><br>
+<a href="https://github.com/akingdom/akingdom/#platforms">Technology</a><br>
+<a href="https://akingdom.github.io/#interests">Everything Else</a><br>
+<a href="https://akingdom.github.io/#quotes">Quotes</a>
+
+</td>
+
+<!-- RIGHT: GALLERY IMAGES WITH LINKS + ALT -->
+<td valign="top">
+
+<!-- AI -->
+<a href="https://akingdom.github.io/articles/Ethical_Framework_for_Future_AI">
+  <img src="https://akingdom.github.io/images/www-whimsical-cartoonish-illustration-young-boy-dark-opt-.svg"
+       width="90" alt="AI ethics illustration" />
+</a>
+
+<!-- Art -->
+<a href="https://akingdom.github.io/art2/">
+  <img src="https://akingdom.github.io/art2/images/ec2efb6dca2746018fe762f8889d6296.jpeg"
+       width="90" alt="Digital artwork by Andrew Kingdom" />
+</a>
+<br>
+
+<!-- Shape Theory -->
+<a href="https://akingdom.github.io/articles/ShapeTheory/">
+  <img src="https://akingdom.github.io/articles/ShapeTheory/shapetheorypix/mothers-face-up-close-like-a-circle--andrew-kingdom.jpeg"
+       width="90" alt="Shape Theory circular form" />
+</a>
+
+<!-- Mathematics -->
+<a href="https://akingdom.github.io/articles/maths">
+  <img src="https://akingdom.github.io/articles/maths_files/four-colour-theorum.svg"
+       width="90" alt="Four colour theorem illustration" />
+</a>
+<br>
+
+<!-- Writing Tips & Jane Austen -->
+<a href="https://akingdom.github.io/articles/AK_on_Jane_Austen">
+  <img src="https://akingdom.github.io/articles/JaneAusten_media/miss_elizabeth_bennett_by_akingdom1-thumb.png"
+       width="90" alt="Elizabeth Bennet illustration" />
+</a>
+
+<!-- Stories -->
+<a href="https://akingdom.github.io/articles/The_Goose_Bride">
+  <img src="https://akingdom.github.io/articles/Goose_Bride-goosemark-cut_small.png"
+       width="90" alt="Goose Bride story mark" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
 ## About
 I’m a freelance consultant specializing in technology solutions. Whether you’re facing a complex IT issue or need guidance on software development, I’m here to help.
 - Freelancer for hire.
