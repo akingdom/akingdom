@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/akingdom/akingdom/#platforms">Technology</a><br>
 <a href="https://akingdom.github.io/#interests">Everything Else</a><br>
 <a href="https://akingdom.github.io/#quotes">Quotes</a>
+<br> 
 
 </td>
 
