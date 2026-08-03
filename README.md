@@ -148,22 +148,22 @@ The above are the current main languages, of about 300 languages and dialects I'
 ### My Repositories
 - [akingdom](https://github.com/akingdom/akingdom)
 - [akingdom.github.io](https://github.com/akingdom/akingdom.github.io)
-- [Debuggles-SAEP](https://github.com/akingdom/Debuggles-SAEP)
-- [duplicate_word_highlighter](https://github.com/akingdom/duplicate_word_highlighter)
-- [example-url-opens-app](https://github.com/akingdom/example-url-opens-app)
+- [Debuggles-SAEP](https://github.com/akingdom/Debuggles-SAEP) – *Debug Safari App Extensions in Xcode*
+- [duplicate_word_highlighter](https://github.com/akingdom/duplicate_word_highlighter) – *Standalone HTML page to help quickly identify and remove duplicate runs of text*
+- [example-url-opens-app](https://github.com/akingdom/example-url-opens-app) – *How to open an iOS app/record from an external URL and how to pass that information to a View*
 - [file_concatenator](https://github.com/akingdom/file_concatenator)
 - [flat-inbox](https://github.com/akingdom/flat-inbox)
-- [food-recipes](https://github.com/akingdom/food-recipes)
+- [food-recipes](https://github.com/akingdom/food-recipes) – *A collection of international recipes (mostly mine)*
 - [gists](https://github.com/akingdom/gists)
-- [git-me](https://github.com/akingdom/git-me)
+- [git-me](https://github.com/akingdom/git-me) – *Enter your GitHub username to easily, quickly and conveniently list your projects*
 - [github-sync-manager](https://github.com/akingdom/github-sync-manager)
 - [jsextractor](https://github.com/akingdom/jsextractor)
 - [llux-website](https://github.com/akingdom/llux-website)
-- [LXD](https://github.com/akingdom/LXD)
-- [Prepopulate_SwiftData](https://github.com/akingdom/Prepopulate_SwiftData)
+- [LXD](https://github.com/akingdom/LXD) – *('lexed') -- an alternative data transport format to JSON*
+- [Prepopulate_SwiftData](https://github.com/akingdom/Prepopulate_SwiftData) – *Example of initialising SwiftData with a JSON string*
 - [pykelet](https://github.com/akingdom/pykelet)
-- [pykeletFromComment](https://github.com/akingdom/pykeletFromComment)
-- [start-site](https://github.com/akingdom/start-site)
+- [pykeletFromComment](https://github.com/akingdom/pykeletFromComment) – *Pulling data from an HTML comment*
+- [start-site](https://github.com/akingdom/start-site) – *Serves a local folder as a website. Useful for when you need a web server for quick testing*
 - [sync-state-bridge](https://github.com/akingdom/sync-state-bridge)
 - [Table-Data-Notation](https://github.com/akingdom/Table-Data-Notation)
 - [thingList](https://github.com/akingdom/thingList)
