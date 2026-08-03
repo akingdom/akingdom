@@ -146,29 +146,29 @@ The above are the current main languages, of about 300 languages and dialects I'
 - Embedded (MicroChip, Raspberry Pi, other)
 
 ### My Repositories
-- [akingdom](https://github.com/akingdom/akingdom)
-- [akingdom.github.io](https://github.com/akingdom/akingdom.github.io)
+- [akingdom](https://github.com/akingdom/akingdom) - *my codesite*
+- [akingdom.github.io](https://github.com/akingdom/akingdom.github.io) - *my website*
 - [Debuggles-SAEP](https://github.com/akingdom/Debuggles-SAEP) – *Debug Safari App Extensions in Xcode*
 - [duplicate_word_highlighter](https://github.com/akingdom/duplicate_word_highlighter) – *Standalone HTML page to help quickly identify and remove duplicate runs of text*
 - [example-url-opens-app](https://github.com/akingdom/example-url-opens-app) – *How to open an iOS app/record from an external URL and how to pass that information to a View*
-- [file_concatenator](https://github.com/akingdom/file_concatenator)
-- [flat-inbox](https://github.com/akingdom/flat-inbox)
+- [file_concatenator](https://github.com/akingdom/file_concatenator) - *A powerful Python utility to recursively concatenate text files with filtering*
+- [flat-inbox](https://github.com/akingdom/flat-inbox) - *IN PROGRESS - simple inbox messaging system for websites.*
 - [food-recipes](https://github.com/akingdom/food-recipes) – *A collection of international recipes (mostly mine)*
-- [gists](https://github.com/akingdom/gists)
+- [gists](https://github.com/akingdom/gists) - *convenience link to Gists*
 - [git-me](https://github.com/akingdom/git-me) – *Enter your GitHub username to easily, quickly and conveniently list your projects*
-- [github-sync-manager](https://github.com/akingdom/github-sync-manager)
-- [jsextractor](https://github.com/akingdom/jsextractor)
-- [llux-website](https://github.com/akingdom/llux-website)
+- [github-sync-manager](https://github.com/akingdom/github-sync-manager) - *copy all github and gist items of user*
+- [jsextractor](https://github.com/akingdom/jsextractor) - *A pure‑Python tool to extract JavaScript object and array literals from .js files*
+- [llux-website](https://github.com/akingdom/llux-website) - *Llux is a tool for independent creators.*
 - [LXD](https://github.com/akingdom/LXD) – *('lexed') -- an alternative data transport format to JSON*
 - [Prepopulate_SwiftData](https://github.com/akingdom/Prepopulate_SwiftData) – *Example of initialising SwiftData with a JSON string*
-- [pykelet](https://github.com/akingdom/pykelet)
+- [pykelet](https://github.com/akingdom/pykelet) - *(Pilot project is progressing)*
 - [pykeletFromComment](https://github.com/akingdom/pykeletFromComment) – *Pulling data from an HTML comment*
 - [start-site](https://github.com/akingdom/start-site) – *Serves a local folder as a website. Useful for when you need a web server for quick testing*
-- [sync-state-bridge](https://github.com/akingdom/sync-state-bridge)
-- [Table-Data-Notation](https://github.com/akingdom/Table-Data-Notation)
-- [thingList](https://github.com/akingdom/thingList)
-- [touchtree](https://github.com/akingdom/touchtree)
-- [WebWorkerFriend](https://github.com/akingdom/WebWorkerFriend)
+- [sync-state-bridge](https://github.com/akingdom/sync-state-bridge) - *A deterministic, race‑safe state synchronisation bridge for real‑time applications.*
+- [Table-Data-Notation](https://github.com/akingdom/Table-Data-Notation) - *A simple, compact way to represent data tables in a format friendly to both humans and machines, suitable for both file storage and streaming.*
+- [thingList](https://github.com/akingdom/thingList) - *Categorised lists of things for AI image and media generation, built as single javascript file*
+- [touchtree](https://github.com/akingdom/touchtree) - *touchtree: A lightweight CLI utility that transforms raw text directory trees into empty, real-world file and folder structures instantly.*
+- [WebWorkerFriend](https://github.com/akingdom/WebWorkerFriend) - *Simple means to invoke a web worker*
 
 ### My Gists
 - [High-performance, hybrid property accessor for dot-delimited paths.](https://gist.github.com/akingdom/e7c44549f1e39851bb2bc24d5015bf2f)
