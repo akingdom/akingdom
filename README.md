@@ -151,7 +151,7 @@ The above are the current main languages, of about 300 languages and dialects I'
 - [Debuggles-SAEP](https://github.com/akingdom/Debuggles-SAEP) – *Debug Safari App Extensions in Xcode*
 - [duplicate_word_highlighter](https://github.com/akingdom/duplicate_word_highlighter) – *Standalone HTML page to help quickly identify and remove duplicate runs of text*
 - [example-url-opens-app](https://github.com/akingdom/example-url-opens-app) – *How to open an iOS app/record from an external URL and how to pass that information to a View*
-- [file_concatenator](https://github.com/akingdom/file_concatenator) - *A powerful Python utility to recursively concatenate text files with filtering*
+- [mconcat](https://github.com/akingdom/mconcat) - *A powerful Python utility to recursively concatenate text files with filtering*
 - [flat-inbox](https://github.com/akingdom/flat-inbox) - *IN PROGRESS - simple inbox messaging system for websites.*
 - [food-recipes](https://github.com/akingdom/food-recipes) – *A collection of international recipes (mostly mine)*
 - [gists](https://github.com/akingdom/gists) - *convenience link to Gists*
